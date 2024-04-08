@@ -60,7 +60,7 @@ running the code (through your package manager) in or directly in the notebook.
 The requirements.txt file should be located on the same level as the notebook in no other extra sub-folder as per our set up. If this has been 
 cahnged then please adapt the command accordingly.
 
-### Colab SetUp
+### Colab and OneDrive SetUp
 
 If you want to follow and work with our one-drive set up then please follow this project setup here.
 **Requirements:**
@@ -89,7 +89,9 @@ When it comes to the local set up the following needs to be considered. **Please
 2. Open the Jupyter Notebook provided
 3. In cells with filepaths, please set it to your local path
 4. If you have not downloaded all from the repo then please run the cells step by step (All the folders such as train and split will be created automatically, only paths need to be adapted in the code)
-5. If all had been downloaded you can skip to the model training part, just make sure to change the filepaths to yours 
+5. If all had been downloaded you can skip to the model training part, just make sure to change the filepaths to yours
+
+6. There is one part in the code in which we test the models with images from the internet - here either use your own and change the filepath completely or download the folder "ImagesFromInternet" for the same results and change the filepath to where the folder is located
 
 #### Findings and other Lessons Learned
 Please see the presentation slides for more information 
