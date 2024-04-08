@@ -60,6 +60,10 @@ running the code (through your package manager) in or directly in the notebook.
 The requirements.txt file should be located on the same level as the notebook in no other extra sub-folder as per our set up. If this has been 
 cahnged then please adapt the command accordingly.
 
+#### Download of Images and folder structure
+If you want to download all the images and not run the download code yourself then please find all the folders here:
+https://drive.google.com/drive/folders/1gxBX50hlUKxGlkX4fy4ztCJlBqsuyWJx
+
 ### Colab and OneDrive SetUp
 
 If you want to follow and work with our one-drive set up then please follow this project setup here.
